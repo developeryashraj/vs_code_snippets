@@ -1,0 +1,5 @@
+{
+    "workbench.startupEditor": "welcomePage",
+    "files.autoSave": "afterDelay",
+    "editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?" //to copy entire php variable with $ sign. Removed '$' from the default regex
+}
